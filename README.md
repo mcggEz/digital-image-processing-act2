@@ -69,4 +69,4 @@ java Main
 - Invalid row/column inputs will be rejected
 
 ---
-*Digital Image Processing - Activity 2*
+*Digital Image Processing - Activity 2* 
